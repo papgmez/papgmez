@@ -14,7 +14,7 @@ I love design, software development, AI and everything related to new technologi
 [![papgmez's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papgmez&layout=compact&hide=tex,shell,css,clips&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me 🕵️ 
-- 📫 Send me an email to hi@iampablopg.com
+- 📫 Send me an email to iampablopg@gmail.com
 - 🌐 Take a look at [my personal website](https://iampablopg.herokuapp.com/) (WIP)
 - 👔 Find my professional profile on [LinkedIn](https://www.linkedin.com/in/pablo-palomino-g%C3%B3mez-27705712a)
 ## Fun facts ⚡
