@@ -2,7 +2,7 @@
 
 I'm Pablo. I was born in November 1996 and I'm from Consuegra, Toledo. 
 
-I love design, software development, AI and everything related to new technologies. I always make sure about my plans or ideas going well. I love face up new problems and always make sure about my plans or ideas going well. I love face up nes problems and always give the maximum in what I do. 
+I love design, software development, AI and everything related to new technologies. I always make sure about my plans or ideas going well. I love face up new problems and always make sure about my plans or ideas going well. 
 
 - 💼 I’m currently remote working at [Bizneo HR](https://www.bizneo.com)
 - 👨‍🎓 I studied computer engineering with a degree in computer science
@@ -19,5 +19,5 @@ I love design, software development, AI and everything related to new technologi
 - 👔 Find my professional profile on [LinkedIn](https://www.linkedin.com/in/pablo-palomino-g%C3%B3mez-27705712a)
 ## Fun facts ⚡
 - ⌨️ I'm in love with [Emacs](https://www.gnu.org/software/emacs/) (although I also like [VS Code](https://code.visualstudio.com/))
-- 🐧 I'm a Linux user
+-  I'm a MacOS user
 - 🎧 I love to coding by listening [lo-fi](https://en.wikipedia.org/wiki/Lo-fi_music)
